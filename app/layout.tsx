@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     siteName: "Dharamraj Polymer",
     images: [
       {
-        url: "/dharamraj-polymer-granules-og-image.png",
+        url: "/logodhramaraj.png",
         width: 1200,
         height: 630,
         alt: "Dharamraj Polymer - HDPE & PP Granules",
@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Dharamraj Polymer | HDPE & PP Granules Manufacturer",
     description: "High-quality HDPE & PP granules in all colors manufactured in Gandhinagar, Gujarat.",
-    images: ["/dharamraj-polymer-granules-og-image.png"],
+    images: ["/logodhramaraj.png"],
   },
   alternates: {
     canonical: "/",
@@ -65,8 +65,8 @@ export const metadata: Metadata = {
     follow: true,
   },
   icons: {
-    icon: "/icon.png",
-    apple: "/apple-touch-icon.png",
+    icon: "/logodhramaraj.png",
+    apple: "/logodhramaraj.png",
   },
 } satisfies import("next").Metadata
 
