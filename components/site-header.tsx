@@ -20,7 +20,7 @@ export function Header() {
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3">
         <Link href="/" className="flex items-center gap-3" aria-label="Dharamraj Polymer Home">
           <Image
-            src="/dharamraj-polymer-logo.png"
+            src="/logodhramaraj.png"
             alt="Dharamraj Polymer logo"
             width={50}
             height={50}
